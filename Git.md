@@ -76,10 +76,10 @@ git config --global --edit : vim에서 수정 가능
 - git branch -d [브랜치명]
  브랜치 
  
--pr 연습
+## PR(Pull Request) 연습
 
 1. 브랜치 생성 & 이동 (feature_연월일_영문이니셜)
 2. 코드 수정 & 커밋
 3. Pull Request 생성
 4. Merge Pull Request
-
+5. Feature Branch 
